@@ -47,7 +47,5 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yewon31&layout=compact&hide_progress=true)
-
 [![Aleph's 백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=chojo1031)](https://solved.ac/dktjdej)
 </div>
