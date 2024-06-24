@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div>
 
-<h2 align="center">🔨 Tools 🔨</h3>
+<h3 align="center">🔨 Tools 🔨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white" />&nbsp
@@ -42,6 +42,13 @@ Here are some ideas to get you started:
 <div align="center">
 </div>
 <br>
+
+<div align="center">
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yewon31&layout=compact) &nbsp; &nbsp;
+[![Aleph's 백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=chojo1031)](https://solved.ac/dktjdej)
+</div>
 
 <div align="center">
 
