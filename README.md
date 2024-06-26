@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 <div align="center">
 </div>
 <br>
-
+-->
 <div align="center">
 
 
