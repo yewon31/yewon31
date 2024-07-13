@@ -6,9 +6,11 @@
 </div>
 
 <div align="center">
-        
+
+<!--        
 <a href="#">![My Skills](https://skillicons.dev/icons?i=github,git,html,css,bootstrap,js,jquery,java,spring,py,c,php,mysql,eclipse,idea,vscode,figma,notion,discord,stackoverflow&perline=10)</a>
 </div>
+-->
 
 <div align="center">
     <a href="#">
