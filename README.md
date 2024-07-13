@@ -1,10 +1,12 @@
 <div align="center">
+        
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yewon31&layout=compact)</a>
         &nbsp; &nbsp;
 <a href="#">![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chojo1031)</a>
 </div>
 
 <div align="center">
+        
 <a href="#">[![My Skills](https://skillicons.dev/icons?i=github,git,html,c,css,bootstrap,js,jquery,java,spring,py,php,mysql,eclipse,idea,vscode,figma,notion,discord,stackoverflow&perline=3)](https://skillicons.dev)</a>
 </div>
 
