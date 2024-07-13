@@ -7,7 +7,7 @@
 
 <div align="center">
         
-<a href="#">[![My Skills](https://skillicons.dev/icons?i=github,git,html,c,css,bootstrap,js,jquery,java,spring,py,php,mysql,eclipse,idea,vscode,figma,notion,discord,stackoverflow&perline=3)](https://skillicons.dev)</a>
+<a href="#">[![My Skills](https://skillicons.dev/icons?i=github,git,html,c,css,bootstrap,js,jquery,java,spring,py,php,mysql,eclipse,idea,vscode,figma,notion,discord,stackoverflow&perline=10)](https://skillicons.dev)</a>
 </div>
 
 <div align="center">
