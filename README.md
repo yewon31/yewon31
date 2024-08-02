@@ -1,6 +1,6 @@
 <div align="center">
         
-<a href="#">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yewon31&show_icons=false&theme=transparent&hide=issues&rank_icon=percentile&border_color=caced2&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)</a>
+<a href="#">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yewon31&show_icons=false&theme=transparent&hide=issues&rank_icon=percentile&border_color=caced2&bg_color=10,B1AFB2,2B4053&title_color=fff&text_color=fff)</a>
         &nbsp; &nbsp;
 <a href="#">![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chojo1031)</a>
 </div>
