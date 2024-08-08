@@ -1,6 +1,7 @@
+
 <div align="center">
         
-<a href="#">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yewon31&show_icons=false&theme=transparent&hide=issues&rank_icon=percentile&border_color=caced2&bg_color=10,B1AFB2,2B4053&title_color=fff&text_color=fff)</a>
+<a href="#">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yewon31&show_icons=false&theme=transparent&hide=stars&rank_icon=percentile&border_color=caced2&bg_color=10,B1AFB2,2B4053&title_color=fff&text_color=fff)</a>
         &nbsp; &nbsp;
 <a href="#">![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chojo1031)</a>
 </div>
@@ -8,6 +9,8 @@
 <div align="center">
         
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yewon31&layout=compact&hide_border=truetext_color=111&title_color=111)</a>
+        &nbsp; &nbsp;
+<a href="#">![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yewon31&theme=default&utcOffset=8)</a>
 </div>
 
 <!--        
