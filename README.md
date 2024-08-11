@@ -9,8 +9,6 @@
 <div align="center">
         
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yewon31&layout=compact&hide_border=truetext_color=111&title_color=111)</a>
-        &nbsp; &nbsp;
-<a href="#">![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yewon31&theme=default&utcOffset=8)</a>
 </div>
 
 <!--        
