@@ -18,13 +18,13 @@
 -->
 
 <div align="center">
+   <a href="https://yewon31.tistory.com/" target=_blank rel=noopener noreferrer style="cursor: pointer;"><img alt="tistory" src="https://user-images.githubusercontent.com/76584961/216338770-66ee5516-a55d-4526-a5b0-386995b215ea.png" style="height: 30px"></a> 
+</div>
+<br>
+
+<div align="center">
     <a href="#">
         <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyewon31&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false" />
     </a>
-</div>
-
-<br>
-<div align="center">
-   <a href="https://yewon31.tistory.com/" target=_blank rel=noopener noreferrer style="cursor: pointer;"><img alt="tistory" src="https://user-images.githubusercontent.com/76584961/216338770-66ee5516-a55d-4526-a5b0-386995b215ea.png" style="height: 30px"></a> 
 </div>
 
